@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexforp
 - 👀 I’m interested in automatization for network Engineers. 
 - 🌱 I’m currently learning Py
-- 💞️ I’m looking to collaborate on network engineering
 - 📫 How to reach me - is a good question! first of all - use email. 
 
 <!---
